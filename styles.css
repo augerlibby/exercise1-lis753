@@ -1,0 +1,29 @@
+h1 {
+  color: #e042f5;
+  font-family: sans-serif;
+}
+
+p {
+  color: #5353e6;
+  width: 75%;
+}
+
+figure {
+  width: 25%;
+  border: 1px solid black;
+  padding: 30px;
+}
+
+figure img {
+  width: 100%;
+  height: auto;
+  margin-bottom: 12px;
+  padding-bottom: 24px;
+}
+
+p img {
+  float: right;
+  max-width: 25%;
+  margin-left: 20px; 
+  margin-bottom: 32px;
+}
