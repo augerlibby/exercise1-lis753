@@ -38,10 +38,18 @@ color: #fff;
 }
 
 figure.section-image {
-float: right;
-margin-left: 20px;
 margin-right: 32px;
 max-width: 320px;
+}
+
+figure.section-image.odd {
+float: right;
+margin-left: 20px;
+}
+
+figure.section-image.even {
+float: left;
+margin-right: 20px;
 }
 
 p img {
