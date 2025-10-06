@@ -67,9 +67,12 @@ a {
 
 nav ul {
   display:flex;
+  justify-content: center;
+  gap: 30px;
   list-style: none;
   padding-left: 0;
-  border: 1px solid mediumvioletred
+  border-top: 1px solid mediumvioletred;
+  border-bottom: 1px solid mediumvioletred;
 }
 
 nav ul li {
@@ -77,15 +80,18 @@ nav ul li {
 }
 
 nav ul li a {
-  background-color: palevioletred;
-  color: #ffff;
+  color: palevioletred;
   text-decoration: none;
-  padding: 8px;
+  padding: 12px;
   border-bottom: 1px solid mediumvioletred;
   display: block;
+  text-transform: uppercase;
+  font-size: 14px;
+  font-weight: bold;
+  letter-spacing: 1px;
 }
 
 nav ul li a:hover {
-  background-color: mediumvioletred
-text-decoration: underline;
+  border-bottom: 3px solid mediumvioletred; 
+  padding-bottom: 9px;
 }
