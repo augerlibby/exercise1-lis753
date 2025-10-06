@@ -65,10 +65,27 @@ a {
   color: black;
 }
 
-ul li a {
-  text-decoration: none;
+nav ul {
+  display:flex;
+  list-style: none;
+  padding-left: 0;
+  border: 1px solid mediumvioletred
 }
 
-ul li a:hover {
+nav ul li {
+
+}
+
+nav ul li a {
+  background-color: palevioletred;
+  color: #ffff;
+  text-decoration: none;
+  padding: 8px;
+  border-bottom: 1px solid mediumvioletred;
+  display: block;
+}
+
+nav ul li a:hover {
+  background-color: mediumvioletred
 text-decoration: underline;
 }
