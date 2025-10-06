@@ -5,12 +5,13 @@ h1#site-title {
   margin-top: 0;
   margin-bottom: .125em;
   text-align:center;
-color: #e042f5;
+color: black;
   font-family: Verdana;
 }
 
 h1#article-title {
  font-size: 48px;
+ text-align:center;
 }
 
 p {
