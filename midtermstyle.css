@@ -52,9 +52,6 @@ figure.main-image {
   place-items: center;
   height: 600px;
   border: 1px solid black;
-background: darkolivegreen;
-border-color: darkolivegreen;
-color: #fff;
 }
 
 figure.section-image {
@@ -115,5 +112,5 @@ footer#page-footer {
   margin-top: 64px;
   text-align: center;
  background-color: darkolivegreen;
-  text-color: white; 
+  text-color: #F8F8FF; 
 }
