@@ -5,7 +5,7 @@ h1#site-title {
   margin-top: 0;
   margin-bottom: .125em;
   text-align: center;
-color: darkseagreen;
+color: darkolivegreen;
   font-family: Verdana;
 }
 
@@ -48,8 +48,8 @@ figure img {
 }
 
 figure.main-image {
-background: mediumseagreen;
-border-color: mediumseagreen;
+background: darkolivegreen;
+border-color: darkolivegreen;
 color: #fff;
 }
 
@@ -81,8 +81,8 @@ nav ul {
   gap: 30px;
   list-style: none;
   padding-left: 0;
-  border-top: 1px solid mediumseagreen;
-  border-bottom: 1px solid mediumseagreen;
+  border-top: 1px solid darkolivegreen;
+  border-bottom: 1px solid darkolivegreen;
 }
 
 nav ul li {
@@ -90,10 +90,10 @@ nav ul li {
 }
 
 nav ul li a {
-  color: mediumseagreen;
+  color: darkolivegreen;
   text-decoration: none;
   padding: 12px;
-  border-bottom: 1px solid mediumseagreen;
+  border-bottom: 1px solid darkolivegreen;
   display: block;
   text-transform: uppercase;
   font-size: 14px;
@@ -102,6 +102,6 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-  border-bottom: 3px solid mediumseagreen; 
+  border-bottom: 3px solid darkolivegreen; 
   padding-bottom: 9px;
 }
