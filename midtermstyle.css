@@ -19,6 +19,11 @@ h2#article-title {
   text-align: center;
 }
 
+h3#article-title {
+  font-size: 28px;
+  text-align: center;
+}
+  
 p {
   color: #13174A;
   width: 75%;
