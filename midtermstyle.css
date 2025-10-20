@@ -48,6 +48,9 @@ figure img {
 }
 
 figure.main-image {
+  display: block;
+  margin: auto;
+  width: 50%;
 background: darkolivegreen;
 border-color: darkolivegreen;
 color: #fff;
