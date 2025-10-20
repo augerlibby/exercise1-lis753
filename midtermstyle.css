@@ -14,9 +14,15 @@ h1#article-title {
  text-align: center;
 }
 
+h2#article-title {
+  font-size: 28px;
+  text-align: center;
+}
+
 p {
   color: #13174A;
   width: 75%;
+  text-align: center;
 }
 
 figure {
