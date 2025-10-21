@@ -9,7 +9,7 @@ color: darkolivegreen;
   font-family: Verdana;
 }
 
-#main-content {
+main#main-content {
  text-align: center;
   margin-left: auto;
 }
@@ -43,9 +43,9 @@ figure.main-image {
 
 figure.section-image.even {
 float: left;
-max-width: 60%;
+max-width: 20%;
 margin-right: 20px;
-margin-bottom: 32px;
+margin-bottom: 24px;
 }
 
 p img {
@@ -93,8 +93,8 @@ nav ul li a:hover {
 
 footer#page-footer {
   padding: 32px 0;
-  margin-top: 64px;
+  margin-top: 24px;
   text-align: center;
- background-color: darkolivegreen;
-  text-color: #F8F8FF; 
+  background-color: darkolivegreen;
+  color: white; 
 }
