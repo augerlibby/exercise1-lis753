@@ -9,7 +9,7 @@ color: darkolivegreen;
   font-family: Verdana;
 }
 
-main#main-content {
+article {
  text-align: center;
   margin-left: auto;
 }
