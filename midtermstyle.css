@@ -9,6 +9,10 @@ color: darkolivegreen;
   font-family: Verdana;
 }
 
+#main-content {
+ text-align: center;
+}
+
 h1#article-title {
  font-size: 28px;
  text-align: center;
