@@ -87,3 +87,7 @@ footer#page-footer {
   position: bottom;
 }
 
+footer p {
+  gap: 30px;
+}
+
