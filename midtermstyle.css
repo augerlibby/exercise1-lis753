@@ -43,9 +43,11 @@ figure.main-image {
 }
 
 figure.section-image.even {
+transform: scale(0.5);
 float: left;
 max-width: auto;
 height: auto;
+
 }
 
 p img {
