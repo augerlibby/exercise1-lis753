@@ -99,6 +99,8 @@ footer#page-footer {
   text-align: center;
   background-color: darkolivegreen;
   color: white; 
+  position: fixed;
+  inset: auto 0 0 0;
 }
 
 footer#footer > p:first-child { 
