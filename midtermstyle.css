@@ -101,19 +101,24 @@ footer#page-footer {
   color: white; 
 }
 
-#footer > p:first-child { 
+footer#footer > p:first-child { 
   float: left; 
   text-align: left; 
   width: 33.3%;
 } 
 
-#footer > p:nth-child(2) { 
+footer#footer > p:nth-child(2) { 
   float: left; 
   text-align: center; 
   width: 33.4%; 
 } 
 
-#footer > p:last-child { 
+footer#footer > p:last-child { 
   float: right; 
   text-align: right; 
   width: 33.3%; }
+
+.centered-content {
+  width: 600px; /* Adjust the width as needed */
+  margin: 0 auto;
+}
