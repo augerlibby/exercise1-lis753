@@ -10,28 +10,28 @@ color: darkolivegreen;
 }
 
 article {
- text-align: center;
+ text-align: left;
   margin-left: auto;
 }
 
 h1#article-title {
  font-size: 28px;
- text-align: center;
+ text-align: left;
 }
 
 h2#article-title {
   font-size: 28px;
-  text-align: center;
+  text-align: left;
 }
 
 h3#article-title {
   font-size: 28px;
-  text-align: center;
+  text-align: left;
 }
   
 p {
   color: #13174A;
-  text-align: center;
+  text-align: left;
   margin: 0 auto;
 }
 
@@ -39,14 +39,6 @@ figure.main-image {
   float: middle;
   width: 100%;
   height: auto;
-}
-
-p img {
-  float: right;
-  max-width: 25%;
-  margin-left: 20px; 
-  margin-bottom: 32px;
-  padding-left: 12px;
 }
 
 a {
