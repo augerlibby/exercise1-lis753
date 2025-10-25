@@ -42,14 +42,6 @@ figure.main-image {
   height: auto;
 }
 
-figure.section-image.even {
-transform: scale(0.5);
-float: left;
-max-width: auto;
-height: auto;
-
-}
-
 p img {
   float: right;
   max-width: 25%;
