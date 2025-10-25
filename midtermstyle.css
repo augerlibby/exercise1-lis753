@@ -101,7 +101,7 @@ footer#footer > p:first-child {
 } 
 
 footer#footer > p:nth-child(2) { 
-  float: left; 
+  float: center; 
   text-align: center; 
   width: 33.4%; 
 } 
