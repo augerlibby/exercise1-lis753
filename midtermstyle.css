@@ -119,6 +119,6 @@ footer#footer > p:last-child {
   width: 33.3%; }
 
 .centered-content {
-  width: 600px; 
-  margin: 0 auto;
+  width: 1000px; 
+  margin: auto;
 }
