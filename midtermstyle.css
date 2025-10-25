@@ -100,3 +100,20 @@ footer#page-footer {
   background-color: darkolivegreen;
   color: white; 
 }
+
+#footer > p:first-child { 
+  float: left; 
+  text-align: left; 
+  width: 33.3%;
+} 
+
+#footer > p:nth-child(2) { 
+  float: left; 
+  text-align: center; 
+  width: 33.4%; 
+} 
+
+#footer > p:last-child { 
+  float: right; 
+  text-align: right; 
+  width: 33.3%; }
