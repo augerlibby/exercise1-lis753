@@ -11,29 +11,21 @@ color: darkolivegreen;
 article {
  text-align: left;
  margin-left: auto;
- padding-left: 30px;
- padding-right: 30px;
 }
 
 h1#article-title {
  font-size: 28px;
- text-align: left;
- padding-left: 30px;
- padding-right: 30px;
+ text-align: center;
 }
 
 h2#article-title {
   font-size: 28px;
-  text-align: left;
-  padding-left: 30px;
-  padding-right: 30px;
+  text-align: center;
 }
 
 h3#article-title {
   font-size: 28px;
-  text-align: left;
-  padding-left: 30px;
-  padding-right: 30px;
+  text-align: center;
 }
   
 p {
