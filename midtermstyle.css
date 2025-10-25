@@ -10,7 +10,9 @@ color: darkolivegreen;
 
 article {
  text-align: left;
-  margin-left: auto;
+ margin-left: auto;
+ padding-left: 30px;
+ padding-right: 30px;
 }
 
 h1#article-title {
