@@ -15,17 +15,17 @@ article {
 
 h1#article-title {
  font-size: 28px;
- text-align: center;
+ text-align: left;
 }
 
 h2#article-title {
   font-size: 28px;
-  text-align: center;
+  text-align: left;
 }
 
 h3#article-title {
   font-size: 28px;
-  text-align: center;
+  text-align: left;
 }
   
 p {
