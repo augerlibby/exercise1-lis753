@@ -86,4 +86,6 @@ footer#page-footer {
   background-color: darkolivegreen;
   text-color: white; 
   position: bottom;
+  display: flex;
+  justify-content: space-between;
 }
