@@ -92,16 +92,19 @@ footer#footer > p:first-child {
   float: left; 
   text-align: left; 
   width: 33.3%;
+  position: relative;
 } 
 
 footer#footer > p:nth-child(2) { 
   float: center; 
   text-align: center; 
   width: 33.4%; 
+  position: relative;
 } 
 
 footer#footer > p:last-child { 
   float: right; 
   text-align: right; 
-  width: 33.3%; }
-
+  width: 33.3%; 
+  position: relative;
+}
