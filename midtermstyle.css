@@ -31,9 +31,8 @@ h3#article-title {
   
 p {
   color: #13174A;
-  width: 75%;
   text-align: center;
-  margin-left: 50px;
+  margin: 0 auto;
 }
 
 figure.main-image {
